@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Victoria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Victoria-DR&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)
+![Victoria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Victoria-DR&count_private=true&show_icons=true&include_all_commits=true&theme=algolia)
+![Victoria's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Victoria&layout=compact&theme=algolia)
 
 <!--
 **Victoria-DR/Victoria-DR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
