@@ -2,6 +2,7 @@
 
 ![Victoria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Victoria-DR&count_private=true&show_icons=true&include_all_commits=true&theme=algolia)
 ![Victoria's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Victoria&layout=compact&theme=algolia)
+[![An image of @victoriadr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/victoriadr)](https://holopin.io/@victoriadr)
 
 <!--
 ### Hi there 👋
