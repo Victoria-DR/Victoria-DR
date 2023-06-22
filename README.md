@@ -1,4 +1,4 @@
-👋 Hi there! My name is Victoria and I'm a computer engineering student at the University of Waterloo. In my free time, you can find me competing in hackathons, playing the piano, and volunteering as a moderator in the Codecademy Community. You can check out some of my past projects on my portfolio [here](https://victoriadarosa.dev).
+👋 Hi there! My name is Victoria and I'm a computer engineering student at the University of Waterloo. In my free time, you can find me competing in hackathons, playing the piano, and volunteering as a moderator in the Codecademy Community. You can check out some of my past projects on my portfolio [here](https://victoriadarosa.com).
 
 ![Victoria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Victoria-DR&count_private=true&show_icons=true&include_all_commits=true&theme=algolia)
 ![Victoria's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Victoria&layout=compact&theme=algolia)
