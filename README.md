@@ -1,7 +1,7 @@
 👋 Hi there! My name is Victoria and I'm a computer engineering student at the University of Waterloo. In my free time, you can find me competing in hackathons, playing the piano, and volunteering as a moderator in the Codecademy Community. You can check out some of my past projects on my portfolio [here](https://victoriadarosa.com).
 
-![Victoria's GitHub stats](https://github-readme-stats-psi-sage.vercel.app/api?username=Victoria-DR&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&text_bold=false&show=reviews&custom_title=GitHub%20Stats&line_height=28&theme=noctis_minimus)
-![Victoria's Wakatime stats](https://github-readme-stats-psi-sage.vercel.app/api/wakatime?username=Victoria&layout=compact&langs_count=12&theme=noctis_minimus)
+![Victoria's GitHub stats](https://github-readme-stats-psi-sage.vercel.app/api?username=Victoria-DR&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&text_bold=false&custom_title=GitHub%20Stats&line_height=28&theme=noctis_minimus)
+![Victoria's Wakatime stats](https://github-readme-stats-psi-sage.vercel.app/api/wakatime?username=Victoria&layout=compact&langs_count=10&theme=noctis_minimus)
 [![An image of @victoriadr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/victoriadr)](https://holopin.io/@victoriadr)
 
 <!--
