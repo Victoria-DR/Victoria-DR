@@ -2,7 +2,7 @@
 
 ![Victoria's GitHub stats](https://github-readme-stats-psi-sage.vercel.app/api?username=Victoria-DR&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&text_bold=false&custom_title=GitHub%20Stats&line_height=28&theme=noctis_minimus)
 ![Victoria's Wakatime stats](https://github-readme-stats-psi-sage.vercel.app/api/wakatime?username=Victoria&layout=compact&langs_count=10&theme=noctis_minimus)
-[![An image of @victoriadr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/victoriadr)](https://holopin.io/@victoriadr)
+<!-- [![An image of @victoriadr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/victoriadr)](https://holopin.io/@victoriadr) -->
 
 <!--
 ### Hi there 👋
