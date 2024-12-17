@@ -1,4 +1,4 @@
-👋 Hi there! My name is Victoria and I'm a computer engineering student at the University of Waterloo. In my free time, you can find me building and mentoring at hackathons, playing the piano, and volunteering as a moderator in the Codecademy Community. Check out some of my past projects on my portfolio [here](https://victoriadarosa.com).
+<!-- 👋 Hi there! My name is Victoria and I'm a computer engineering student at the University of Waterloo. In my free time, you can find me building and mentoring at hackathons, playing the piano, and volunteering as a moderator in the Codecademy Community. Check out some of my past projects on my portfolio [here](https://victoriadarosa.com). -->
 
 ![Victoria's GitHub stats](https://github-readme-stats-psi-sage.vercel.app/api?username=Victoria-DR&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&text_bold=false&custom_title=GitHub%20Stats&line_height=28&theme=noctis_minimus)
 ![Victoria's Wakatime stats](https://github-readme-stats-psi-sage.vercel.app/api/wakatime?username=Victoria&layout=compact&langs_count=10&theme=noctis_minimus)
